@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=33933s
 https://www.youtube.com/watch?v=7fjOw8ApZ1I
 ```
 
+### RTQ
+```
+https://www.youtube.com/watch?v=9P2IUx13MZI
+````
