@@ -1,4 +1,10 @@
 ### php 
+==onlie code ====
+
+```
+https://codesandbox.io/p/devbox/magical-browser-9f3872?file=%2Findex.php%3A11%2C1
+```
+
 ====7.0=====
 ```
 https://www.youtube.com/watch?v=t0syDUSbdfE
